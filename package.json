@@ -1,0 +1,22 @@
+{
+  "name": "array-sum-creator-v1",
+  "version": "1.0.0",
+  "description": "This sums up the numbers within an array. ",
+  "repository": {
+    "type": "git", 
+    "url": "git@github.com:sudiparyal185/array-sum-creator.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "array",
+    "sum"
+  ],
+  "author": "Javascript Programmer",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
